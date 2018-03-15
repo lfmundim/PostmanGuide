@@ -18,4 +18,6 @@ Click *Send* to test your Request. Your output should be right below.
 
 ![alt-text](../IMG/SampleResponse.PNG?raw=true)
 
-If everything is good, click *Save*
+If everything is good, click *Save*.
+
+[But... what if you need that API's response on another request?](../ChainingRequestsWithRunner/README.md)
