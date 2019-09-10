@@ -4,6 +4,7 @@
 Create a new *documentation* by clicking on the **New** button again and selecting *API Documentation*. 
 
 ![alt-text](../IMG/NEW.PNG?raw=true)
+
 ![alt-text](../IMG/APIDocumentation.png?raw=true)
 
 There are two differente ways tho create an API Documentation:
@@ -18,7 +19,8 @@ Type the general information of your API in the descripton box, you can use [Mar
 
 ![alt-text](../IMG/ConfigureDocumentation.png?raw=true)
 
-Click the **Next** button and then **Close**. 
+Click the **Create** button and then **Close**. 
+
 
 ### From a collection
 
@@ -30,14 +32,15 @@ Type the general information of your API in the descripton box, you can use [Mar
 
 ![alt-text](../IMG/ConfigureDocumentation.png?raw=true)
 
-Click the **Next** button and then **Close**. 
+Click the **Create** button and then **Close**. 
+
 
 ### Viewing documentation
 
-To access your a documentation, find in the sidebar your collection, hover your mouse over it and the press the > button in the right. 
+To access yout documentation, find in the sidebar the collection, hover your mouse over it and then press the > button on the right. 
 
 ![alt-text](../IMG/ViewDocumentation.png?raw=true)
 
-Click "View in web" to view your complete documentation
+Click "View in web" to view your complete documentation:
 
-![alt-text](../IMG/ViewDocumentationInWeb.png?raw=true)
+![alt-text](../IMG/ViewDocumentationWeb.png?raw=true)
