@@ -35,12 +35,12 @@ Type the general information of your API in the description box, you can use [Ma
 Click the **Create** button and then **Close**. 
 
 
-### Viewing documentation
+# Viewing documentation
 
-To access your documentation, find in the sidebar the collection, hover your mouse over it and then press the > button on the right. 
+To access your *documentation*, find in the sidebar the collection, hover your mouse over it and then press the > button on the right. 
 
 ![alt-text](../IMG/ViewDocumentation.png?raw=true)
 
-Click "View in web" to view your complete documentation:
+Click **"View in web"** to view your complete documentation:
 
 ![alt-text](../IMG/ViewDocumentationWeb.png?raw=true)
