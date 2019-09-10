@@ -9,7 +9,7 @@ Select the method you want to use:
 
 ![alt-text](../IMG/ImportMethod.png?raw=true)
 
-Choose the item to import and press open:
+Choose the item to import and press **open**:
 
 ![alt-text](../IMG/ImportFolder.png?raw=true)
 
@@ -20,10 +20,10 @@ To export a *Collection*, go to the collections tab in the side menu, then right
 
 ![alt-text](../IMG/FileExport.png?raw=true)
 
-Click export:
+Click **export**:
 
 ![alt-text](../IMG/ExportCollection.png?raw=true)
 
-Choose the folder to export and press save:
+Choose the folder to export and press **save**:
 
 ![alt-text](../IMG/ExportFolder.png?raw=true)
