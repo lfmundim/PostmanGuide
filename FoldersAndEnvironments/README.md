@@ -5,7 +5,7 @@ To create a new *Collection*, click on the **New** button on the top left corner
 ![alt-text](../IMG/NEW.PNG?raw=true)
 ![alt-text](../IMG/CollectionEnvironments.PNG?raw=true)
 
-You will be greeted with the view to create a new collection. In it you can start documenting your API by using [Markdown (.md)](https://guides.github.com/features/mastering-markdown/) inside the *Description* box.
+You will be greeted with the view to create a new collection. In it you can start [documenting](../Documenting/README.md) your API by using [Markdown (.md)](https://guides.github.com/features/mastering-markdown/) inside the *Description* box.
 
 ![alt-text](../IMG/CreateNewCollect.PNG?raw=true)
 
@@ -15,7 +15,7 @@ After creating your first Collection, you should create its *Environment*. Envir
 
 I'm going to use Steam's API as an example:
 
-![alt-text](../IMG/NewEnvironment.PNG?raw=true)
+![alt-text](../IMG/NewEnvironment.png?raw=true)
 
 Notice I set two variables: *key* and *baseUrl*. Those will be accessible using `{{thisSnippet}}` any time you want, as long as its Environment is selected:
 

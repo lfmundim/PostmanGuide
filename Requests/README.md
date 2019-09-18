@@ -20,4 +20,4 @@ Click *Send* to test your Request. Your output should be right below.
 
 If everything is good, click *Save*.
 
-[But... what if you need that API's response on another request?](../ChainingRequestsWithRunner/README.md)
+[But... what if you need that API's response on another request?](../ChainingRequests/README.md)
